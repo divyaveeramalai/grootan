@@ -1,0 +1,193 @@
+[5:42 pm, 04/07/2021] Navrin Jummana😍💕: [
+   {
+	"id": 1,
+ 	"name"  : "AjithKumar",
+	"age"     : 21,
+	"dob"    : "20-10-2000",
+	"firstname": "AjithKumar",
+	"lastname" : "P",
+	"more": 
+	{
+	              "address_line1": "2/30, Anna Colony",
+	               "address_line2": "GM Nagar",
+	               "address_line3": "Chennai",
+	               "phone": "9877869469"  
+         	}
+	
+	},
+	{
+	"id": 2,
+ 	"name"  : "Haridharan",
+	"age"     : 19,
+	"dob"    : "10-11-2012",
+	"firstname": "Haridharan",
+	"lastname" : "A",
+	"more":
+	{
+	              "address_line1": "30/30, GH Colony",
+	               "address_line2": "Lotus Nagar",
+	               "address_line3": "Salem",
+	               "phone": "9080076855"  
+         	}
+	
+	},
+	{
+	"id": 3,
+ 	"name"  : "Dhanasekar",
+	"age"     : 25,
+	"dob"    : "02-09-1990",
+	"firstname": "Dhanasekar",
+	"lastname" : "P",
+	"more":
+	{
+	              "address_line1": "20,  DS Apartment",
+	               "address_line2": "Salem Main road",
+	               "address_line3": "Erode",
+	               "phone": "9877776569"  
+         	}
+	
+	},
+{
+	"id": 4,
+ 	"name"  : "sekar",
+	"age"     : 29,
+	"dob"    : "02-09-1920",
+	"firstname": "sekar",
+	"lastname" : "P",
+	"more":
+	{
+	              "address_line1": "20,  SD Apartment",
+	               "address_line2": "Main road",
+	               "address_line3": "Ooty",
+	               "phone": "9888886569"  
+         	}
+	
+	},
+{
+	"id": 5,
+ 	"name"  : "Ajith",
+	"age"     : 35,
+	"dob"    : "03-09-1990",
+	"firstname": "Ajith",
+	"lastname" : "P",
+	"more":
+	{
+	              "address_line1": "20, Apartment Nehru",
+	               "address_line2": "Beach road",
+	               "address_line3": "Chennai",
+	               "phone": "9866666569"  
+         	}
+	
+	},
+{
+	"id": 6,
+ 	"name"  : "Grootan",
+	"age"     : 15,
+	"dob"    : "02-10-1990",
+	"firstname": "Grootan",
+	"lastname" : "M/s",
+	"more":
+	{
+	              "address_line1": "20,  Anna Nagar",
+	               "address_line2": "Kanchepuram Main road",
+	               "address_line3": "Chennai",
+	               "phone": "9834674339"  
+         	}
+	
+	},
+{
+	"id": 7,
+ 	"name"  : "Sandeep",
+	"age"     : 10,
+	"dob"    : "01-10-1990",
+	"firstname": "Sandeep",
+	"lastname" : "K",
+	"more":
+	{
+	              "address_line1": "2, MGR nagar",
+	               "address_line2": "Salem Main road",
+	               "address_line3": "Thoothukudi",
+	               "phone": "9822335659"  
+         	}
+	
+	},
+	{
+	"id": 8,
+ 	"name"  : "Rahul",
+	"age"     : 35,
+	"dob"    : "13-10-1990",
+	"firstname": "Rahul",
+	"lastname" : "M",
+	"more":
+	{
+	              "address_line1": "29, NM Apartment",
+	               "address_line2": "ERODE Main road",
+	               "address_line3": "Salem",
+	               "phone": "9456789569"  
+         	}
+	
+	},
+{
+	"id": 9,
+ 	"name"  : "Sankar",
+	"age"     : 90,
+	"dob"    : "19-09-1990",
+	"firstname": "Sankar",
+	"lastname" : "N",
+	"more":
+	{
+	              "address_line1": "40, CV Apartment",
+	               "address_line2": "GH Main road",
+	               "address_line3": "Perundurai",
+	               "phone": "87654367439"  
+         	}
+	
+	},{
+	"id": 10,
+ 	"name"  : "Hari",
+	"age"     : 95,
+	"dob"    : "23-09-1990",
+	"firstname": "Hari",
+	"lastname" : "L",
+	"more":
+	{
+	              "address_line1": "34, AGS nagar",
+	               "address_line2": "Chennai Main road",
+	               "address_line3": "Salem",
+	               "phone": "9096749539"  
+         	}
+	
+	},
+{
+	"id": 11,
+ 	"name"  : "Eeashi",
+	"age"     : 23,
+	"dob"    : "30-09-1990",
+	"firstname": "Eeashi",
+	"lastname" : "U",
+	"more":
+	{
+	              "address_line1": "34, Nethaji Street",
+	               "address_line2": "Ooty Main road",
+	               "address_line3": "Erode",
+	               "phone": "9877776569"  
+         	}
+	
+	},
+{
+	"id": 12,
+ 	"name"  : "Naveen",
+	"age"     : 55,
+	"dob"    : "15-12-1990",
+	"firstname": "Naveen",
+	"lastname" : "A",
+	"more":
+	{
+	              "address_line1": "90, Gandhi Road",
+	               "address_line2": "Erode Main Road",
+	               "address_line3": "Kovai",
+	               "phone": "9877776569"  
+         	}
+	
+	}
+]
